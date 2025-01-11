@@ -1,7 +1,8 @@
 # rust-bedtools-pangenome-merge
   - rust bedtools pangenome merge for multimerge.
   - anchor alignment approach to pangenome merge, sort the range and then intsert into different structs.
-  - no ned to sort the file. 
+  - no need to sort the file.
+  - general note: Incase of Golang and RUST, please see the last commit message and if it says compiled binary then it is completed or else still in development version. 
 
  ```
  cargo build
